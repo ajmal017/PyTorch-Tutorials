@@ -15,5 +15,3 @@ __Machine Learning__
 ======
 1. Learning XOR Function using Multi-Layer Perceptrons
 
-
-<img src='2.05M.gif' align='center'/>
