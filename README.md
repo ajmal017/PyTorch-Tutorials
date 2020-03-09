@@ -1,5 +1,5 @@
 # PyTorch-Tutorials
-Curated notebooks as PyTorch Tutorials.
+Curated notebooks as PyTorch Tutorials hosted at [my website](https://karush17.github.io/tutorials/)
 
 __Reinforcement Learning__
 ======
